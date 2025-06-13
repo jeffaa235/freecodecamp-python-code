@@ -25,4 +25,4 @@ print(food)
 ```
 
 ## Output
-![image](budget-app-project/budget-app-project.png)
+![image](https://github.com/jeffaa235/freecodecamp-python-code/blob/main/budget-app-project/budget-app-project.png?raw=true)
